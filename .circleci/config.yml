@@ -39,3 +39,12 @@ jobs:
           name: deploy
           command: |
             npm run frontend:deploy
+workflows:
+  build-deploy:
+    jobs:
+      - build: # << the job to only run build on branch master (used branch)
+          filters:
+            branches:
+              only:
+                - master
+                - main
