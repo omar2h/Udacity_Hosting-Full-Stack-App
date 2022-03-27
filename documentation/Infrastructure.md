@@ -12,4 +12,4 @@ In this project, Udegma is a full stack application which is deployed to [AWS](h
 * http://udagram-api-dev.eba-rinype73.us-east-1.elasticbeanstalk.com/
 
 ## Architecture Diagram
-![Architecture Diagram](./screenshots/architecture%20diagram.png)
+![Architecture Diagram](./diagrams/architecture%20diagram.png)
