@@ -1,7 +1,7 @@
 # Project Requirements
 In this project, you will take a newly developed full stack application and deploy it to a cloud service provider so that it is available to customers. This application contains the main components of a 3-tier full stack application (UI, API, and Database).
 
-App can be accessed via this [link](http://myudagram-bucket.s3-website-us-east-1.amazonaws.com/)
+App can be accessed via this [link](http://udagramapp-bucket.s3-website-us-east-1.amazonaws.com/)
 ## Screenshots
 ### AWS
 #### AWS RDS for the database
